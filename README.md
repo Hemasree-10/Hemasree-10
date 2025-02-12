@@ -23,7 +23,7 @@ A passionate Machine Learning Engineer with a foundation in computational biolog
 - 🛠️ Technologies used: TensorFlow, Python
 - 📈 Currently learning: Advanced CNN architectures and model optimization
 
-### ⚛️ [**Introduction to Quantum Machine Learning**](https://github.com/Hemasree-10/Brain_Tumor_Detection.git)
+### ⚛️ [**Introduction to Quantum Machine Learning**](https://github.com/Hemasree-10/Quantum-vs.-Classical-Machine-Learning-for-Heart-Attack-Prediction.git)
 - Completed foundational course in quantum computing for ML
 - Implemented basic quantum vs classical ML comparison
 - 🛠️ Technologies used: Basic Qiskit, Python

@@ -61,7 +61,7 @@ A passionate Machine Learning Engineer with a foundation in computational biolog
 ✅ Fresh perspective on **ML applications in healthcare** 
 
 ## 🤝 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/hemasree10/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hemasree10/)
 
 
 # 📊 GitHub Stats:

@@ -11,19 +11,19 @@ A passionate Machine Learning Engineer with a foundation in computational biolog
 
 ## 📊 Projects
 
-### 🔥 [**Heart Attack Prediction System**](https://github.com/Hemasree-10/Heart-Attack-Prediction.git)
+### 🔥 [**Deployed ML-Based Heart Attack Prediction App with Streamlit**](https://github.com/Hemasree-10/Heart-Attack-Prediction.git)
 - Built first end-to-end ML project using classification algorithms
 - Created interactive web interface using Streamlit
 - 🛠️ Technologies used: Scikit-learn, Pandas, Streamlit
 - 🎯 Learning focus: Feature engineering and model evaluation metrics
 
-### 🧠 [**Brain Tumor Detection - Deep Learning Project**](https://github.com/Hemasree-10/Brain_Tumor_Detection.git)
+### 🧠 [**Deep Learning for Automated Brain Tumor Detection in MRI Images**](https://github.com/Hemasree-10/Brain_Tumor_Detection.git)
 - Implemented basic CNN architecture for MRI image classification
 - Gained hands-on experience with image preprocessing techniques
 - 🛠️ Technologies used: TensorFlow, Python
 - 📈 Currently learning: Advanced CNN architectures and model optimization
 
-### ⚛️ [**Introduction to Quantum Machine Learning**](https://github.com/Hemasree-10/Quantum-vs.-Classical-Machine-Learning-for-Heart-Attack-Prediction.git)
+### ⚛️ [**Quantum vs. Classical Machine Learning for Heart Attack Prediction**](https://github.com/Hemasree-10/Quantum-vs.-Classical-Machine-Learning-for-Heart-Attack-Prediction.git)
 - Completed foundational course in quantum computing for ML
 - Implemented basic quantum vs classical ML comparison
 - 🛠️ Technologies used: Basic Qiskit, Python

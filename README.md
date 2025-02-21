@@ -69,8 +69,4 @@ A passionate Machine Learning Engineer with a foundation in computational biolog
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hemasree10/)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hemasree-10&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemasree-10&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
 
